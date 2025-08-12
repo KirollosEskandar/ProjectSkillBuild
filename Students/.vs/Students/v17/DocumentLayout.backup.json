@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\Students\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4C752-3B79-4974-BB5D-0DDA8313D93A}|Students.vcxproj|C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\Students\\Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44F4C752-3B79-4974-BB5D-0DDA8313D93A}|Students.vcxproj|solutionrelative:Students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.cpp",
+              "DocumentMoniker": "C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\Students\\Students.cpp",
+              "RelativeDocumentMoniker": "Students.cpp",
+              "ToolTip": "C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\Students\\Students.cpp",
+              "RelativeToolTip": "Students.cpp",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAcwLAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-12T15:17:08.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

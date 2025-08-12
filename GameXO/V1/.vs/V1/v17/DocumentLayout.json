@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\GameXO\\V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10E76C0B-980F-4F30-965E-4DDBC91B6548}|V1.vcxproj|C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\GameXO\\V1\\V1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10E76C0B-980F-4F30-965E-4DDBC91B6548}|V1.vcxproj|solutionrelative:V1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "V1.cpp",
+              "DocumentMoniker": "C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\GameXO\\V1\\V1.cpp",
+              "RelativeDocumentMoniker": "V1.cpp",
+              "ToolTip": "C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\GameXO\\V1\\V1.cpp",
+              "RelativeToolTip": "V1.cpp",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAcwM0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-12T15:18:23.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
