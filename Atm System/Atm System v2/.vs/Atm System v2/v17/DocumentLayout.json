@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\Atm System\\Atm System v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD18593-7CDC-442B-A30F-4FA186E13010}|Atm System v2.vcxproj|C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\Atm System\\Atm System v2\\Atm System v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBD18593-7CDC-442B-A30F-4FA186E13010}|Atm System v2.vcxproj|solutionrelative:Atm System v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Atm System v2.cpp",
+              "DocumentMoniker": "C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\Atm System\\Atm System v2\\Atm System v2.cpp",
+              "RelativeDocumentMoniker": "Atm System v2.cpp",
+              "ToolTip": "C:\\Users\\Kirollos\\Desktop\\ProjectSkillBuild\\Atm System\\Atm System v2\\Atm System v2.cpp",
+              "RelativeToolTip": "Atm System v2.cpp",
+              "ViewState": "AgIAANgBAAAAAAAAAAAcwOgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-12T16:16:00.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

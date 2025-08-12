@@ -1,0 +1,10 @@
+C:\Users\Kirollos\Desktop\Projexts #C\Pizza V1\bin\Debug\Pizza V1.exe.config
+C:\Users\Kirollos\Desktop\Projexts #C\Pizza V1\bin\Debug\Pizza V1.exe
+C:\Users\Kirollos\Desktop\Projexts #C\Pizza V1\bin\Debug\Pizza V1.pdb
+C:\Users\Kirollos\Desktop\Projexts #C\Pizza V1\obj\Debug\Pizza V1.csproj.AssemblyReference.cache
+C:\Users\Kirollos\Desktop\Projexts #C\Pizza V1\obj\Debug\Pizza_V1.Form1.resources
+C:\Users\Kirollos\Desktop\Projexts #C\Pizza V1\obj\Debug\Pizza_V1.Properties.Resources.resources
+C:\Users\Kirollos\Desktop\Projexts #C\Pizza V1\obj\Debug\Pizza V1.csproj.GenerateResource.cache
+C:\Users\Kirollos\Desktop\Projexts #C\Pizza V1\obj\Debug\Pizza V1.csproj.CoreCompileInputs.cache
+C:\Users\Kirollos\Desktop\Projexts #C\Pizza V1\obj\Debug\Pizza V1.exe
+C:\Users\Kirollos\Desktop\Projexts #C\Pizza V1\obj\Debug\Pizza V1.pdb
